@@ -1,7 +1,0 @@
-abc
-한글넣었다.
-def
-ghi
-jkl
-mnop
-나도수정

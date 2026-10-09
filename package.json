@@ -1,0 +1,9 @@
+{
+  "name": "whispering-grove",
+  "version": "0.1.0",
+  "private": true,
+  "description": "달맞이 들판 - 펫을 키워 싸우게 하는 생활형 RPG (브라우저 게임)",
+  "scripts": {
+    "start": "python3 -m http.server 5173"
+  }
+}
